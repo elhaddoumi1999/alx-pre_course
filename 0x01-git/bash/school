@@ -1,12 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "The School is open!"
-<<<<<<< HEAD
-echo "The School is open!"
-=======
-echo "The School is close!"
->>>>>>> origin/update_script
-=======
-echo "School is coll"
->>>>>>> 8bedca786871c9ad8462f464002379a7fb809ef4
-The school is open !
+
